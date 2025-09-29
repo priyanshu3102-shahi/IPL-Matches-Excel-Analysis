@@ -56,15 +56,15 @@ Functions: PROPER(), TRIM(), VLOOKUP(), XLOOKUP()
 Pivot Tables & Charts
 Conditional Formatting
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IPL-Excel-Analysis/
-│── data/
-│   ├── Matches.csv
-│   ├── Teams.csv
-│
-│── analysis/
-│   ├── cleaned_dataset.xlsx                       # Preprocessed data
-│   ├── Calculations.xlsx                          # pivot tables analysis
-│   ├── Advanced_Excel_Concepts.xlsx               # conditional formatting
-│   ├── Dashboard.xlsx                             # Final dashboard
-│
-│── README.md
+IPL-Excel-Analysis/<br>
+│── data/<br>
+│   ├── Matches.csv<br>
+│   ├── Teams.csv<br>
+|<br>
+│── analysis/<br>
+│   ├── cleaned_dataset.xlsx                       # Preprocessed data<br>
+│   ├── Calculations.xlsx                          # pivot tables analysis<br>
+│   ├── Advanced_Excel_Concepts.xlsx               # conditional formatting<br>
+│   ├── Dashboard.xlsx                             # Final dashboard<br>
+│<br>
+│── README.md<br>
